@@ -1,0 +1,13 @@
+name: hex
+version: 0.1.0
+
+authors:
+  - puffer <kevin@alavik.se>
+
+targets:
+  hex:
+    main: src/hex.cr
+
+crystal: 1.9.2
+
+license: MIT
